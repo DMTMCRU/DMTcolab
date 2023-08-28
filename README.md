@@ -3,7 +3,7 @@
 *ใช้เพื่อการศึกษาเท่านั้น ห้ามสร้างภาพ ภาพติดเรท 18+ 
 บังคับใส่ negative prompt : (nsfw:1.5),(sexy:1.5)* 
 
-:: Google Drive DMTMCRU Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 80 GB)  กดตรงนี้ >>> 
+:: Google Drive SalmonRK Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 80 GB)  กดตรงนี้ >>> 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DMTMCRU/DMTcolab/blob/main/DMTMCRU_SDAI.ipynb) 
 
 # การติดตั้ง
@@ -16,6 +16,9 @@
 4. หลังจาก run ไปจนเสร็จระบบจะไม่หยุดทำงานให้สังเกต ตรงส่วนโค๊ดที่ถูก run อยู่ จะแสดง web url ให้เราเริ่มเข้าใช้งาน
 ![enter image description here](https://cdn.discordapp.com/attachments/923554024895156287/1145551607124213850/Screenshot_2023-08-28_095159.png)
 
+# ตรวจสอบก่อนใช้งาน
+สถานะ ไม่ว่าง คือ ผู้ใช้งาน Colab ทั่วโลกมีจำนวนมาก ให้กด "**เชื่อมต่อรันไทม์ที่โฮสต์:T4**" เลื่อยๆจนกว่าจะขึ้นสถานะ "**เชื่อมต่อ**" แล้วกลับไป run โค๊ดด้านบนใหม่อีกครั้ง 
+![enter image description here](https://cdn.discordapp.com/attachments/923554024895156287/1145556145411461200/Screenshot_2023-08-28_101032.png)
 
 Colab by SalmonRK
 https://github.com/SalmonRK/A1111-Colab
