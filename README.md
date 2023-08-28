@@ -3,7 +3,7 @@
 *ใช้เพื่อการศึกษาเท่านั้น ห้ามสร้างภาพ ภาพติดเรท 18+ 
 บังคับใส่ negative prompt : (nsfw:1.5),(sexy:1.5)* 
 
-:: Google Drive SalmonRK Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 80 GB)  กดตรงนี้ >>> 
+:: Google Drive DMTMCRU Colab (ติดตั้งครั้งเดียว พื้นที่ G Drive > 80 GB)  กดตรงนี้ >>> 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DMTMCRU/DMTcolab/blob/main/DMTMCRU_SDAI.ipynb) 
 
 # การติดตั้ง
